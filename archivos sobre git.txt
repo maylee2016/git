@@ -1,0 +1,10 @@
+
+GIT
+
+file:///C:/Users/M700/Downloads/Dialnet-ConfiguracionDeUsuariosEnGITParaGruposDeDesarrollo-5225633.pdf
+
+https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez
+
+http://campus.ktaris.com/modificar-usuario-local-de-git/
+
+https://git-scm.com/book/es/v1/Personalizando-Git-Configuraci%C3%B3n-de-Git
