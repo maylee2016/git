@@ -12,3 +12,5 @@ https://git-scm.com/book/es/v1/Personalizando-Git-Configuraci%C3%B3n-de-Git
 comandos
 https://www.hostinger.es/tutoriales/comandos-de-git
 https://gist.github.com/KefDS/5c6e6db367ba69d96dfc
+
+http://rogerdudler.github.io/git-guide/index.es.html
